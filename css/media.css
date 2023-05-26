@@ -1,0 +1,149 @@
+@media only screen and (max-width:1720px){
+  .container{
+      width:95%;
+      margin:auto;
+  }
+}
+@media only screen and (max-width:1366px) and (min-width:1023px){
+    .offer_content_text{
+        width:63% !important;
+    }
+    .picker_color {
+        margin-top: 33px !important;
+    }
+}
+@media only screen and (max-width:1024px) and (min-width:768px){
+    .modalPopup{
+        width:80%;
+    }
+    .button_details{
+        width:100%;
+    }
+    .nav-link {
+        margin: 0px 0px 0px 20px;
+    }
+    .header{
+        padding: 10px 0px 10px 0px
+    }
+    .default{
+        margin-left:13%;
+    }
+    .bundles_title, .form-group label{
+        font-size:10px;
+    }
+    .design_text_button {
+        font-size:12px;
+        padding: 15px 2px 15px 6px;
+    }
+    .picker_color{
+        margin-top:0px;
+    }
+    .offer_content_text{
+        width:71%;
+    }
+    .spacing_title {
+        width:74%;
+    }
+    .nav-link {
+        padding: 6px 25px 6px 25px !important;
+        font-size: 13px;
+    }
+}
+@media only screen and (max-width:767px) and (min-width:320px){
+    .picker_color{
+        margin-top:0px;
+    }
+    .spacing_title{
+        width:73%
+    }
+    .offer_content_text{
+        width:70%;
+    }
+    .all_button{
+        margin-bottom:0px;
+    }
+    .design_text_button{
+        font-size:15px;
+    }
+    .selective_process{
+        margin-top:20px;
+    }
+    .nav-item{
+        margin:5px 0px 5px 0px;
+    }
+    .text_button {
+        width:110px;
+    }
+    .default {
+        margin-left:7%;
+    }
+    .header{
+        padding-right:0px;
+    }
+    .middle_content_{
+        padding-left:0px;
+    }
+    .modalPopup{
+        width:85%;
+    }
+    .check_box_content span {
+        font-size: 17px;
+    }
+    .icon_img img{
+        width:40px;
+    }
+    .add_new {
+        padding: 10px 0px 2px 0px;
+    }
+    .Search_input{
+        margin: 3px 0px 10px 0px;
+        padding:20px 10px 20px 30px;
+        
+    }
+    .search_product {
+        padding: 0px 20px 0px 20px;
+    }
+    .check_box_icon {
+        padding-top: 11px;
+    }
+    hr{
+        margin:4px 0px 4px 0px;
+    }
+    .check_box_content {
+        padding-top:8px;
+    }
+    .button_details{
+        width:100%;
+        float:left;
+    }
+    .edit_button{
+        padding:8px 16px 8px 16px;
+        margin:0px 6px;
+    }
+    .bundles_img{
+        margin:20px 10px 20px 10px;
+    }
+  
+    .fa-search:before {
+        top:19%;
+    }
+    .add_new h2 {
+        font-size: 22px;
+    }
+    .middle_content_section ul li {
+        line-height:34px;
+    }
+    .btn-new{
+        font-size:12px;
+    }
+    .list_ing_product{
+        padding:10px 14px 0px 14px;
+    }
+    .deleted_button {
+        padding: 8px 27px 8px 27px;
+    }
+    .bundles_img {
+        text-align:center
+    }
+}
+   
